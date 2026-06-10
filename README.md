@@ -1,43 +1,27 @@
-# Hi there, I'm Dhanush 👋
+# Hey there! 👋
 
-### 🚀 About Me
+I'm Dhanush, a Computer Science and AI student from India.
 
-I'm a Computer Science and Artificial Intelligence student passionate about AI, software development, and building innovative products.
+I enjoy building AI applications, web projects, and turning ideas into real products.
 
-### 💻 What I'm Working On
+Currently learning AI, machine learning, and full-stack development while exploring entrepreneurship.
 
-* AI-powered applications
-* Web development projects
-* Learning and exploring new technologies
-
-### 🛠️ Tech Stack
-
-**Languages**
+### Tech I Use
 
 * Python
 * JavaScript
 * C#
-* HTML5
-* CSS3
+* HTML & CSS
 
-**Tools**
+### Tools
 
-* Git & GitHub
+* GitHub
 * VS Code
 * Claude Code
 * OpenCode
 
-### 📚 Currently Learning
+### Fun Facts
 
-* AI & Machine Learning
-* Full-Stack Development
-
-### 🌟 Goals
-
-* Build impactful AI products
-* Contribute to open source
-* Launch a tech startup
-
----
-
-*"Living in pixels."* ✨
+* I love technology and startups
+* Always working on a new idea
+* "Living in pixels." ✨
