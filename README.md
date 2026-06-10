@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Dhanush 👋
 
-<!--
-**mankudhanush/mankudhanush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science and Artificial Intelligence student passionate about AI, software development, and building innovative products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm Working On
+
+* AI-powered applications
+* Web development projects
+* Learning and exploring new technologies
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* JavaScript
+* C#
+* HTML5
+* CSS3
+
+**Tools**
+
+* Git & GitHub
+* VS Code
+* Claude Code
+* OpenCode
+
+### 📚 Currently Learning
+
+* AI & Machine Learning
+* Full-Stack Development
+
+### 🌟 Goals
+
+* Build impactful AI products
+* Contribute to open source
+* Launch a tech startup
+
+---
+
+*"Living in pixels."* ✨
