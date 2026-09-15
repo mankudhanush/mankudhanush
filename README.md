@@ -65,8 +65,9 @@ An open-source, repository-aware AI workspace for multi-provider chat, automatic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mankudhanush&show_icons=true&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0ea5e9&text_color=64748b&rank_icon=github" alt="Dhanush's GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankudhanush&layout=compact&hide_border=true&bg_color=00000000&title_color=0ea5e9&text_color=64748b" alt="Dhanush's most used languages" height="165" />
+<a href="https://github.com/mankudhanush?tab=repositories"><img src="https://img.shields.io/badge/Public%20projects-Explore-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Explore public projects" /></a>
+<a href="https://github.com/mankudhanush/thinkroute-ai"><img src="https://img.shields.io/github/stars/mankudhanush/thinkroute-ai?style=for-the-badge&logo=github&label=ThinkRoute%20AI%20stars&color=f59e0b" alt="ThinkRoute AI stars" /></a>
+<a href="https://github.com/mankudhanush?tab=followers"><img src="https://img.shields.io/github/followers/mankudhanush?style=for-the-badge&logo=github&label=Followers&color=0f172a" alt="GitHub followers" /></a>
 
 </div>
 
