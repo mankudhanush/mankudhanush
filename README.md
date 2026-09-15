@@ -69,16 +69,7 @@ AI-powered legal document intelligence platform with RAG, OCR, lawyer discovery,
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [Believe in You](https://github.com/mankudhanush/believe-in-you)
-
-A TypeScript project exploring product ideas through a focused web experience.
-
-`TypeScript`
-
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [Furniture Gallery Platform](https://github.com/mankudhanush/furniture-gallery-platform)
 
