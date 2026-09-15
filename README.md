@@ -45,6 +45,67 @@ An open-source, repository-aware AI workspace for multi-provider chat, automatic
 </tr>
 </table>
 
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ThinkRoute AI](https://github.com/mankudhanush/thinkroute-ai)
+
+Repository-aware multi-provider AI workspace with automatic routing, provider management, conversation history, and code context.
+
+`Python` `TypeScript` `FastAPI` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [SamVadhaan AI](https://github.com/mankudhanush/SAMVADHAANAI)
+
+AI-powered legal document intelligence platform with RAG, OCR, lawyer discovery, contract risk analysis, and multilingual voice workflows.
+
+`JavaScript` `AI` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Believe in You](https://github.com/mankudhanush/believe-in-you)
+
+A TypeScript project exploring product ideas through a focused web experience.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [Furniture Gallery Platform](https://github.com/mankudhanush/furniture-gallery-platform)
+
+A public project for presenting furniture and product experiences on the web.
+
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [LegalWise](https://github.com/mankudhanush/legalwise)
+
+A JavaScript project focused on making legal workflows more approachable.
+
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mankudhanush?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20public%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore all public repositories" /></a>
+
+</td>
+</tr>
+</table>
+
 ## Toolbox
 
 <div align="center">
