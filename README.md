@@ -102,6 +102,6 @@ An open-source, repository-aware AI workspace for multi-provider chat, automatic
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&repeat=true&width=420&lines=Living+in+pixels.;Building+one+idea+at+a+time.;Turning+curiosity+into+products." alt="Living in pixels. Building one idea at a time. Turning curiosity into products." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&repeat=true&width=300&lines=Living+in+pixels." alt="Living in pixels." />
 
 </div>
