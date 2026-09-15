@@ -47,55 +47,18 @@ An open-source, repository-aware AI workspace for multi-provider chat, automatic
 
 ## Selected projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [ThinkRoute AI](https://github.com/mankudhanush/thinkroute-ai) | Repository-aware multi-provider AI workspace with automatic routing, conversation history, and code context. | `Python` `TypeScript` `FastAPI` `Next.js` |
+| [SamVadhaan AI](https://github.com/mankudhanush/SAMVADHAANAI) | Legal document intelligence with RAG, OCR, lawyer discovery, contract risk analysis, and multilingual voice workflows. | `JavaScript` `AI` `RAG` |
+| [Furniture Gallery Platform](https://github.com/mankudhanush/furniture-gallery-platform) | A web project for presenting furniture and product experiences. | `Python` |
+| [LegalWise](https://github.com/mankudhanush/legalwise) | A JavaScript project focused on making legal workflows more approachable. | `JavaScript` |
 
-### [ThinkRoute AI](https://github.com/mankudhanush/thinkroute-ai)
-
-Repository-aware multi-provider AI workspace with automatic routing, provider management, conversation history, and code context.
-
-`Python` `TypeScript` `FastAPI` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
-### [SamVadhaan AI](https://github.com/mankudhanush/SAMVADHAANAI)
-
-AI-powered legal document intelligence platform with RAG, OCR, lawyer discovery, contract risk analysis, and multilingual voice workflows.
-
-`JavaScript` `AI` `RAG`
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### [Furniture Gallery Platform](https://github.com/mankudhanush/furniture-gallery-platform)
-
-A public project for presenting furniture and product experiences on the web.
-
-`Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [LegalWise](https://github.com/mankudhanush/legalwise)
-
-A JavaScript project focused on making legal workflows more approachable.
-
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
 <a href="https://github.com/mankudhanush?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20public%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore all public repositories" /></a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ## Toolbox
 
